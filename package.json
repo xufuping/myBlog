@@ -1,0 +1,20 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xufuping/myBlog.git"
+  },
+  "author": "xuqingfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xufuping/myBlog/issues"
+  },
+  "homepage": "https://github.com/xufuping/myBlog#readme"
+}
